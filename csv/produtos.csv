@@ -1,0 +1,31 @@
+id,nome,categoria,preco
+1,TV 55 polegadas,eletronico,1299.99
+2,Smartphone Samsung Galaxy S24,eletronico,3499.90
+3,Notebook Dell Inspiron,eletronico,3299.00
+4,Monitor LG 27 polegadas,eletronico,899.99
+5,Teclado Mecânico RGB,eletronico,449.50
+6,Mouse Gamer Logitech,eletronico,199.90
+7,Webcam Full HD,eletronico,349.99
+8,Headset Wireless,eletronico,279.90
+9,Impressora HP LaserJet,eletronico,1199.00
+10,Scanner de Documentos,eletronico,599.90
+11,Cadeira Gamer,movel,899.99
+12,Mesa para Computador,movel,649.90
+13,Estante Metálica,movel,299.99
+14,Luminária LED,iluminacao,89.90
+15,Ventilador de Teto,eletronico,399.90
+16,Ar Condicionado 12000 BTU,climatizacao,2499.00
+17,Aquecedor Elétrico,climatizacao,349.99
+18,Frigideira Elétrica,cozinha,199.90
+19,Liquidificador Philips,cozinha,249.50
+20,Forno Elétrico,cozinha,599.99
+21,Jogo de Panelas Antiaderente,cozinha,159.90
+22,Cafeteira Automática,cozinha,299.99
+23,Micro-ondas 30L,cozinha,799.90
+24,Geladeira Inox 500L,cozinha,3999.00
+25,Fogão 5 bocas,cozinha,1299.99
+26,Lava-louças Brastemp,cozinha,2299.90
+27,Lavadora de Roupas,cozinha,1699.99
+28,Secadora de Roupas,cozinha,2099.90
+29,Aspirador de Pó Vertical,limpeza,399.99
+30,Escada Alumínio 6 degraus,ferragens,249.90
