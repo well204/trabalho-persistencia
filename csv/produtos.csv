@@ -1,45 +1,46 @@
 id,nome,categoria,preco
-1,TV 55 polegadas,eletronico,1299.99
-2,Smartphone Samsung Galaxy S24,eletronico,3499.90
-3,Notebook Dell Inspiron,eletronico,3299.00
+1,Notebook Gamer,eletronicos,5500.0
+2,Smartphone Samsung Galaxy S24,eletronico,3499.9
+3,Notebook Dell Inspiron,eletronico,3299.0
 4,Monitor LG 27 polegadas,eletronico,899.99
-5,Teclado Mecânico RGB,eletronico,449.50
-6,Mouse Gamer Logitech,eletronico,199.90
+5,Teclado Mecânico RGB,eletronico,449.5
+6,Mouse Gamer Logitech,eletronico,199.9
 7,Webcam Full HD,eletronico,349.99
-8,Headset Wireless,eletronico,279.90
-9,Impressora HP LaserJet,eletronico,1199.00
-10,Scanner de Documentos,eletronico,599.90
+8,Headset Wireless,eletronico,279.9
+9,Impressora HP LaserJet,eletronico,1199.0
+10,Scanner de Documentos,eletronico,599.9
 11,Cadeira Gamer,movel,899.99
-12,Mesa para Computador,movel,649.90
+12,Mesa para Computador,movel,649.9
 13,Estante Metálica,movel,299.99
-14,Luminária LED,iluminacao,89.90
-15,Ventilador de Teto,eletronico,399.90
-16,Ar Condicionado 12000 BTU,climatizacao,2499.00
+14,Luminária LED,iluminacao,89.9
+15,Ventilador de Teto,eletronico,399.9
+16,Ar Condicionado 12000 BTU,climatizacao,2499.0
 17,Aquecedor Elétrico,climatizacao,349.99
-18,Frigideira Elétrica,cozinha,199.90
-19,Liquidificador Philips,cozinha,249.50
+18,Frigideira Elétrica,cozinha,199.9
+19,Liquidificador Philips,cozinha,249.5
 20,Forno Elétrico,cozinha,599.99
-21,Jogo de Panelas Antiaderente,cozinha,159.90
+21,Jogo de Panelas Antiaderente,cozinha,159.9
 22,Cafeteira Automática,cozinha,299.99
-23,Micro-ondas 30L,cozinha,799.90
-24,Geladeira Inox 500L,cozinha,3999.00
+23,Micro-ondas 30L,cozinha,799.9
+24,Geladeira Inox 500L,cozinha,3999.0
 25,Fogão 5 bocas,cozinha,1299.99
-26,Lava-louças Brastemp,cozinha,2299.90
+26,Lava-louças Brastemp,cozinha,2299.9
 27,Lavadora de Roupas,cozinha,1699.99
-28,Secadora de Roupas,cozinha,2099.90
+28,Secadora de Roupas,cozinha,2099.9
 29,Aspirador de Pó Vertical,limpeza,399.99
-30,Escada Alumínio 6 degraus,ferragens,249.90
+30,Escada Alumínio 6 degraus,ferragens,249.9
 31,Parafusadeira Elétrica,ferragens,199.99
-32,Serra Circular,ferragens,499.90
+32,Serra Circular,ferragens,499.9
 33,Lixadeira Orbital,ferragens,299.99
-34,Martelo de Borracha,ferragens,89.90
-35,Conjunto de Chaves de Fenda,ferragens,149.90
-36,Nível de Bolha,ferragens,79.90
-37,Alicate Universal,ferragens,99.90
-38,Trena de 5 Metros,ferragens,49.90
-39,Chave Inglesa Ajustável,ferragens,129.90
-40,Serrote Manual,ferragens,89.90
-41,Plaina Elétrica,ferragens,399.90
+34,Martelo de Borracha,ferragens,89.9
+35,Conjunto de Chaves de Fenda,ferragens,149.9
+36,Nível de Bolha,ferragens,79.9
+37,Alicate Universal,ferragens,99.9
+38,Trena de 5 Metros,ferragens,49.9
+39,Chave Inglesa Ajustável,ferragens,129.9
+40,Serrote Manual,ferragens,89.9
+41,Plaina Elétrica,ferragens,399.9
 42,Esmerilhadeira,ferragens,299.99
-43,Compressor de Ar,ferragens,899.90
-44,Tinta Acrílica 18L,construção,199.90
+43,Compressor de Ar,ferragens,899.9
+44,Tinta Acrílica 18L,construção,199.9
+45,Notebook,eletronicos,3500.5
